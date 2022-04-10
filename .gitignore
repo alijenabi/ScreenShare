@@ -19,3 +19,6 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+sender_app/sender_app/android/*
+sender_app/sender_app/ios/*
